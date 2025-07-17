@@ -35,7 +35,11 @@ function home() {
     <div id="his">
       <div id="about">
         <h1>About me</h1>
-        <h3>This is a responsive calculator built using HTML, CSS, and JavaScript. It supports basic operations such as addition, subtraction, multiplication, division, and percentage. The layout adapts to different screen sizes...</h3>
+        <h3>Hi, I'm a Full Stack Developer passionate about building end-to-end web applications that are fast, secure, and user-friendly. I specialize in the MERN stack (MongoDB, Express.js, React, Node.js), and also work with powerful backend frameworks like Spring Boot (Java) and Django (Python).
+
+With hands-on experience across both frontend and backend technologies, I enjoy turning ideas into scalable and maintainable digital products. Whether it’s building REST APIs, handling complex data workflows, or creating sleek UI/UX experiences, I love solving problems through code.
+
+</h3>
       </div>
     </div>
     <script src="js.js"></script>
@@ -159,7 +163,7 @@ function skill() {
         <li>
           <div class="p_title"><h1>Soft Skills</h1></div>
           <div class="p_body">Teamwork, Communication, Problem Solving, Time Management</div>
-          <a href="#">LinkedIn Profile</a>
+          <a href="https://www.linkedin.com/in/angad-gill-6a020431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn Profile</a>
         </li>
       </ul>
     </div>
@@ -188,8 +192,8 @@ function contact() {
           <div class="p_title"><h1>Contact Info</h1></div>
           <div class="p_body">
             <p><strong>Phone:</strong> +91-9650845188</p>
-            <p><strong>Email:</strong> <a href="mailto:angadgill088@gmail.com">you@example.com</a></p>
-            <p><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/yourprofile" target="_blank">yourprofile</a></p>
+            <p><strong>Email:</strong> <a href="mailto:angadgill088@gmail.com">angadgill088@gmail.com</a></p>
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/angad-gill-6a020431b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Linkdin profile</a></p>
           </div>
           
         </li>
